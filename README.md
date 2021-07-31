@@ -62,6 +62,7 @@ following boards:
 *  Xilinx VCU1525 (Xilinx Virtex UltraScale+ XCVU9P)
 *  Xilinx ZCU102 (Xilinx Zynq UltraScale+ XCZU9EG)
 *  Xilinx ZCU106 (Xilinx Zynq UltraScale+ XCZU7EV)
+*  Qmtech XC7A100T Wukong (Xilinx Artix 7 XC7A100T)
 
 ## Documentation
 

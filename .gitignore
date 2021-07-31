@@ -3,4 +3,7 @@
 *.pyc
 *.vvp
 *.kate-swp
-
+*fpga.cache
+*fpga.gen
+*fpga.ip_user_files
+*fpga.runs
